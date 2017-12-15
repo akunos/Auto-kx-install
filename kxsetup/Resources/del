@@ -1,0 +1,4 @@
+ping -n 3 127.1>nul
+del /F /S /Q /ah %cd%\Interop.IWshRuntimeLibrary.dll
+del /F /S /Q /ah %cd%\Ionic.Zip.dll
+del /F /S /Q /ah %0

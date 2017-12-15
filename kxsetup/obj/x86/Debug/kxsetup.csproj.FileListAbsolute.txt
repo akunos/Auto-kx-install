@@ -1,0 +1,12 @@
+D:\kxsetup\kxsetup\bin\x86\Debug\kxsetup.exe.config
+D:\kxsetup\kxsetup\bin\x86\Debug\kxsetup.exe
+D:\kxsetup\kxsetup\bin\x86\Debug\kxsetup.pdb
+D:\kxsetup\kxsetup\bin\x86\Debug\Ionic.Zip.dll
+D:\kxsetup\kxsetup\bin\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\kxsetup\kxsetup\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\kxsetup\kxsetup\obj\x86\Debug\kxsetup.csproj.ResolveComReference.cache
+D:\kxsetup\kxsetup\obj\x86\Debug\kxsetup.Form1.resources
+D:\kxsetup\kxsetup\obj\x86\Debug\kxsetup.Properties.Resources.resources
+D:\kxsetup\kxsetup\obj\x86\Debug\kxsetup.csproj.GenerateResource.Cache
+D:\kxsetup\kxsetup\obj\x86\Debug\kxsetup.exe
+D:\kxsetup\kxsetup\obj\x86\Debug\kxsetup.pdb
